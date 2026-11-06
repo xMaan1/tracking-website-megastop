@@ -1,6 +1,19 @@
-
-
 # MegaStop Order Tracking System
+
+An order tracking and profit dashboard built for an e-commerce business (2025).
+
+**Features**
+- Create and manage orders with customer details, tracking IDs and status
+- Search by customer name, phone, order ID or tracking ID, and filter by status
+- Configurable delivery charges
+- Daily ad-spend tracking to see real profit per period
+- Authentication, email verification and profile management (Laravel Breeze)
+
+**Stack:** Laravel, PHP, Blade, Tailwind CSS, Vite, MySQL
+
+---
+
+## Deployment
 
 A comprehensive order tracking system for e-commerce businesses to track orders, monitor profits, and analyze business performance.
 
